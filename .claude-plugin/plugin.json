@@ -1,0 +1,13 @@
+{
+  "name": "kinva",
+  "version": "1.0.0",
+  "description": "AI development skills for OpenCode: brainstorming, vibe-coding, tdd, debugging",
+  "author": {
+    "name": "hbahuguna",
+    "url": "https://github.com/hbahuguna"
+  },
+  "homepage": "https://github.com/hbahuguna/kinva",
+  "repository": "https://github.com/hbahuguna/kinva",
+  "license": "MIT",
+  "keywords": ["kinva", "opencode", "vibe-coding", "brainstorming", "debugging", "tdd", "ai-development"]
+}
